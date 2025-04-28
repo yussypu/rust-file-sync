@@ -1,0 +1,11 @@
+/Users/yahya/rust_file_sync/target/debug/deps/libindicatif-4a3524afd8da4006.rmeta: /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/lib.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/format.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/iter.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/progress_bar.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/state.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/style.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/utils.rs
+
+/Users/yahya/rust_file_sync/target/debug/deps/indicatif-4a3524afd8da4006.d: /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/lib.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/format.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/iter.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/progress_bar.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/state.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/style.rs /Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/utils.rs
+
+/Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/lib.rs:
+/Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/format.rs:
+/Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/iter.rs:
+/Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/progress_bar.rs:
+/Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/state.rs:
+/Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/style.rs:
+/Users/yahya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/indicatif-0.16.2/src/utils.rs:

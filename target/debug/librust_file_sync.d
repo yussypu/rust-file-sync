@@ -1,0 +1,1 @@
+/Users/yahya/rust_file_sync/target/debug/librust_file_sync.rlib: /Users/yahya/rust_file_sync/src/client.rs /Users/yahya/rust_file_sync/src/encryption.rs /Users/yahya/rust_file_sync/src/lib.rs /Users/yahya/rust_file_sync/src/server.rs
