@@ -2,7 +2,7 @@
 
 A high-performance real-time file synchronization system built in Rust, designed for fast, secure, and scalable syncing of files across systems. Utilizing Rust's async/await, AES encryption, and efficient file system watching, this project provides real-time synchronization with extremely low latency.
 
-## 🚀 Features
+## Features
 
 * **Real-Time Synchronization**: Sync 5000+ files with low-latency performance using Rust's async/await.
 * **AES Encryption**: Secure data transfers with end-to-end encryption to ensure privacy.
@@ -10,11 +10,11 @@ A high-performance real-time file synchronization system built in Rust, designed
 * **Benchmarking**: Custom framework to benchmark performance, achieving 123µs average sync time per file.
 * **Modular Design**: Clean client-server architecture, ready for real-world, production-grade deployments.
 
-## 📸 Screenshot
+## Screenshot
 
 ![Sync Benchmark Screenshot](benchmark.png)
 
-## 💻 Installation
+## Installation
 
 ### Prerequisites
 
@@ -46,7 +46,7 @@ Ensure you have the following installed:
     cargo run --bin client
     ```
 
-## ⏱️ Benchmark
+## Benchmark
 
 Once the client starts syncing files, the system will display the average sync time after processing all files. The benchmark results can be seen in the console as “Average time per file: 123µs”.
 
