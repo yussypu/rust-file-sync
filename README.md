@@ -12,9 +12,7 @@ A high-performance real-time file synchronization system built in Rust, designed
 
 ## 📸 Screenshot
 
-Here’s a snapshot of the average sync time after syncing 5000 files:
-*(You would typically insert an image link or the actual image here if you have one)*
-*Example: `![Sync Benchmark Screenshot](link/to/your/screenshot.png)`*
+![Sync Benchmark Screenshot](benchmark.png)
 
 ## 💻 Installation
 
